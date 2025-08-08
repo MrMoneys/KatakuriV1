@@ -1,0 +1,58 @@
+{
+  "version": "1.0",
+  "last_update": "2025-08-08",
+  "keys": [
+    {
+      "key": "StealHub2025",
+      "user": "Admin",
+      "active": true,
+      "expires": null,
+      "created": "2025-08-08",
+      "hwid": null,
+      "uses": -1
+    },
+    {
+      "key": "PREMIUM-USER-001",
+      "user": "João Silva",
+      "active": true,
+      "expires": 1756684800,
+      "created": "2025-08-08",
+      "hwid": "HWID123456",
+      "uses": 5
+    },
+    {
+      "key": "TRIAL-2025-FREE",
+      "user": "Trial User",
+      "active": true,
+      "expires": 1723161600,
+      "created": "2025-08-08",
+      "hwid": null,
+      "uses": 1
+    },
+    {
+      "key": "VIP-LIFETIME-999",
+      "user": "VIP Member",
+      "active": true,
+      "expires": null,
+      "created": "2025-08-08",
+      "hwid": "VIPHWID789",
+      "uses": -1
+    },
+    {
+      "key": "BANNED-KEY-001",
+      "user": "Banned User",
+      "active": false,
+      "expires": null,
+      "created": "2025-08-08",
+      "hwid": "BANNEDHWID",
+      "uses": 0
+    }
+  ],
+  "settings": {
+    "maintenance": false,
+    "maintenance_message": "Sistema em manutenção. Tente novamente em alguns minutos.",
+    "required_version": "1.0",
+    "discord_link": "https://discord.gg/seuserver",
+    "update_url": "https://seulink.com/seuscript.lua"
+  }
+}
