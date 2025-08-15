@@ -1,51 +1,24 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-08",
+  "last_update": "2025-08-14",
   "keys": [
     {
-      "key": "StealHub2025",
-      "user": "Admin",
+      "key": "XLC",
+      "user": "Exemple",
       "active": true,
-      "expires": null,
-      "created": "2025-08-08",
-      "hwid": null,
-      "uses": -1
+      "expires": 1755226800,
+      "created": "2025-08-14",
+      "hwid": "HWIDVIP2025",
+      "uses": 1000
     },
     {
-      "key": "PREMIUM-USER-001",
-      "user": "João Silva",
+      "key": "Hopserver",
+      "user": "XLauch",
       "active": true,
-      "expires": 1756684800,
-      "created": "2025-08-08",
-      "hwid": "HWID123456",
+      "expires": null,
+      "created": "2025-08-14",
+      "hwid": "HWIDVIP2025",
       "uses": 5
-    },
-    {
-      "key": "TRIAL-2025-FREE",
-      "user": "Trial User",
-      "active": true,
-      "expires": 1723161600,
-      "created": "2025-08-08",
-      "hwid": null,
-      "uses": 1
-    },
-    {
-      "key": "VIP-LIFETIME-999",
-      "user": "VIP Member",
-      "active": true,
-      "expires": null,
-      "created": "2025-08-08",
-      "hwid": "VIPHWID789",
-      "uses": -1
-    },
-    {
-      "key": "BANNED-KEY-001",
-      "user": "Banned User",
-      "active": false,
-      "expires": null,
-      "created": "2025-08-08",
-      "hwid": "BANNEDHWID",
-      "uses": 0
     }
   ],
   "settings": {
