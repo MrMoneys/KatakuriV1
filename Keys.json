@@ -22,7 +22,7 @@
     }
   ],
   "settings": {
-    "maintenance": false,
+    "maintenance": true,
     "maintenance_message": "Sistema em manutenção. Tente novamente em alguns minutos.",
     "required_version": "1.0",
     "discord_link": "https://discord.gg/seuserver",
