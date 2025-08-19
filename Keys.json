@@ -1,24 +1,42 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-14",
+  "last_update": "2025-08-19",
   "keys": [
     {
-      "key": "XLC",
-      "user": "Exemple",
-      "active": true,
-      "expires": 1755226800,
-      "created": "2025-08-14",
-      "hwid": "HWIDVIP2025",
-      "uses": 1000
-    },
-    {
-      "key": "Hopserver",
-      "user": "XLauch",
+      "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
+      "user": "XLC",
       "active": true,
       "expires": null,
       "created": "2025-08-14",
-      "hwid": "HWIDVIP2025",
+      "hwid": null,
+      "uses": 1
+    },
+    {
+      "key": "Xlauch-Free1xT0Pq28sQp5M2TIl8Eo",
+      "user": "XLC",
+      "active": true,
+      "expires": 1755831600,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
+      "uses": 10000
+    },
+    {
+      "key": "XLauch-Free484As8pS03XsUo9WjoHA",
+      "user": "XLC",
+      "active": true,
+      "expires": 1756090800,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
       "uses": 5
+    },
+    {
+      "key": "XLauch-Free20hSI3z48bK2EJgt8VcZ",
+      "user": "XLC",
+      "active": true,
+      "expires": 1755658800,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
+      "uses": -1
     }
   ],
   "settings": {
