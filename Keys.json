@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-19 23:31:53",
+  "last_update": "2025-08-20 06:42:16",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -28,15 +28,6 @@
       "created": "2025-08-19",
       "hwid": "HWIDFREE",
       "uses": 5
-    },
-    {
-      "key": "XLauch-Free20hSI3z48bK2EJgt8VcZ",
-      "user": "XLC",
-      "active": true,
-      "expires": 1755658800,
-      "created": "2025-08-19",
-      "hwid": "HWIDFREE",
-      "uses": -1
     }
   ],
   "settings": {
@@ -49,6 +40,6 @@
   "stats": {
     "total_keys_created": 5,
     "total_keys_used": 0,
-    "active_keys": 4
+    "active_keys": 3
   }
 }
