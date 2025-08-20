@@ -1,7 +1,54 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-19 23:24:45",
-  "keys": [],
+  "last_update": "2025-08-19 23:27:58",
+  "keys": [
+    {
+      "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
+      "user": "XLC",
+      "active": true,
+      "expires": null,
+      "created": "2025-08-14",
+      "hwid": null,
+      "uses": 1
+    },
+    {
+      "key": "Xlauch-Free1xT0Pq28sQp5M2TIl8Eo",
+      "user": "XLC",
+      "active": true,
+      "expires": 1755831600,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
+      "uses": 10000
+    },
+    {
+      "key": "XLauch-Free484As8pS03XsUo9WjoHA",
+      "user": "XLC",
+      "active": true,
+      "expires": 1756090800,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
+      "uses": 5
+    },
+    {
+      "key": "XLauch-Free20hSI3z48bK2EJgt8VcZ",
+      "user": "XLC",
+      "active": true,
+      "expires": 1755658800,
+      "created": "2025-08-19",
+      "hwid": "HWIDFREE",
+      "uses": -1
+    },
+    {
+      "key": "XLauch-ELzaWsVnGWQREgOqINAR",
+      "user": "XLC",
+      "active": true,
+      "expires": 1756002478,
+      "created": "2025-08-19 23:27:58",
+      "hwid": "HWIDFREE",
+      "uses": 5,
+      "creator": "negao_ofc"
+    }
+  ],
   "settings": {
     "maintenance": false,
     "maintenance_message": "Sistema em manutenção. Tente novamente em alguns minutos.",
@@ -10,8 +57,8 @@
     "update_url": "https://seulink.com/seuscript.lua"
   },
   "stats": {
-    "total_keys_created": 1,
+    "total_keys_created": 5,
     "total_keys_used": 0,
-    "active_keys": 0
+    "active_keys": 5
   }
 }
