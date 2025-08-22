@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-22 15:26:11",
+  "last_update": "2025-08-22 15:26:15",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -19,16 +19,6 @@
       "created": "2025-08-19",
       "hwid": "HWIDFREE",
       "uses": 5
-    },
-    {
-      "key": "DRDREE",
-      "user": "MrMoneys",
-      "active": false,
-      "expires": 1756085032,
-      "created": "2025-08-22 01:23:52",
-      "hwid": "HWIDSEMIVIP",
-      "uses": -1,
-      "creator": "Web Admin"
     },
     {
       "key": "FCL",
