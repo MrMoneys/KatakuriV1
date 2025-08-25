@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-25 09:13:20",
+  "last_update": "2025-08-25 09:14:50",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -39,6 +39,26 @@
       "hwid": "PremiumUser",
       "uses": -1,
       "creator": "Web Admin"
+    },
+    {
+      "key": "XLauchFree--j2KaneTGcxecKSidWV4V",
+      "user": "Hugo",
+      "active": true,
+      "expires": 1756199690,
+      "created": "2025-08-25 09:14:50",
+      "hwid": null,
+      "uses": -1,
+      "creator": "Web Admin (Bulk)"
+    },
+    {
+      "key": "XLauchFree--F6L84NaOgZ4UG7NCbqoM",
+      "user": "Hugo",
+      "active": true,
+      "expires": 1756199690,
+      "created": "2025-08-25 09:14:50",
+      "hwid": null,
+      "uses": -1,
+      "creator": "Web Admin (Bulk)"
     }
   ],
   "settings": {
@@ -49,8 +69,8 @@
     "update_url": "https://seulink.com/seuscript.lua"
   },
   "stats": {
-    "total_keys_created": 9,
+    "total_keys_created": 11,
     "total_keys_used": 0,
-    "active_keys": 2
+    "active_keys": 4
   }
 }
