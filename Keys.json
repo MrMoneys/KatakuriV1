@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-25 09:14:50",
+  "last_update": "2025-08-27 15:35:36",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -10,60 +10,11 @@
       "created": "2025-08-14",
       "hwid": null,
       "uses": 1
-    },
-    {
-      "key": "XLauch-Free484As8pS03XsUo9WjoHA",
-      "user": "XLC",
-      "active": true,
-      "expires": 1756090800,
-      "created": "2025-08-19",
-      "hwid": "HWIDFREE",
-      "uses": 5
-    },
-    {
-      "key": "FCL",
-      "user": "MrMoneys",
-      "active": true,
-      "expires": 1755962762,
-      "created": "2025-08-22 15:26:02",
-      "hwid": "owner",
-      "uses": -1,
-      "creator": "Web Admin"
-    },
-    {
-      "key": "Rootbar",
-      "user": "PremiumUser",
-      "active": true,
-      "expires": 1756286000,
-      "created": "2025-08-25 09:13:20",
-      "hwid": "PremiumUser",
-      "uses": -1,
-      "creator": "Web Admin"
-    },
-    {
-      "key": "XLauchFree--j2KaneTGcxecKSidWV4V",
-      "user": "Hugo",
-      "active": true,
-      "expires": 1756199690,
-      "created": "2025-08-25 09:14:50",
-      "hwid": null,
-      "uses": -1,
-      "creator": "Web Admin (Bulk)"
-    },
-    {
-      "key": "XLauchFree--F6L84NaOgZ4UG7NCbqoM",
-      "user": "Hugo",
-      "active": true,
-      "expires": 1756199690,
-      "created": "2025-08-25 09:14:50",
-      "hwid": null,
-      "uses": -1,
-      "creator": "Web Admin (Bulk)"
     }
   ],
   "settings": {
     "maintenance": false,
-    "maintenance_message": "Sistema em manutenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o. Tente novamente em alguns minutos.",
+    "maintenance_message": "Sistema em manutenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o. Tente novamente em alguns minutos.",
     "required_version": "1.0",
     "discord_link": "https://discord.gg/seuserver",
     "update_url": "https://seulink.com/seuscript.lua"
@@ -71,6 +22,6 @@
   "stats": {
     "total_keys_created": 11,
     "total_keys_used": 0,
-    "active_keys": 4
+    "active_keys": 1
   }
 }
