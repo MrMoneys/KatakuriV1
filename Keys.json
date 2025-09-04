@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2025-08-27 15:35:36",
+  "last_update": "2025-09-04 12:55:07",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -10,18 +10,28 @@
       "created": "2025-08-14",
       "hwid": null,
       "uses": 1
+    },
+    {
+      "key": "XLauch--MmPdlqvKK5WWfjMkcokp",
+      "user": "FREE",
+      "active": true,
+      "expires": 1757249707,
+      "created": "2025-09-04 12:55:07",
+      "hwid": "Free Key",
+      "uses": -1,
+      "creator": "Web Admin"
     }
   ],
   "settings": {
     "maintenance": false,
-    "maintenance_message": "Sistema em manutenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o. Tente novamente em alguns minutos.",
+    "maintenance_message": "Sistema em manutenÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o. Tente novamente em alguns minutos.",
     "required_version": "1.0",
     "discord_link": "https://discord.gg/seuserver",
     "update_url": "https://seulink.com/seuscript.lua"
   },
   "stats": {
-    "total_keys_created": 11,
+    "total_keys_created": 12,
     "total_keys_used": 0,
-    "active_keys": 1
+    "active_keys": 2
   }
 }
