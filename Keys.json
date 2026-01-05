@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2026-01-05 20:49:11",
+  "last_update": "2026-01-05 20:49:14",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -10,16 +10,6 @@
       "created": "2025-08-14",
       "hwid": null,
       "uses": 1
-    },
-    {
-      "key": "XLauch--MmPdlqvKK5WWfjMkcokp",
-      "user": "FREE",
-      "active": true,
-      "expires": 1757249707,
-      "created": "2025-09-04 12:55:07",
-      "hwid": "Free Key",
-      "uses": -1,
-      "creator": "Web Admin"
     }
   ],
   "settings": {
