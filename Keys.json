@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2026-01-07 17:28:09",
+  "last_update": "2026-01-07 17:28:37",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -24,7 +24,7 @@
     {
       "key": "7DaysPremium121",
       "user": "DFC",
-      "active": true,
+      "active": false,
       "expires": null,
       "created": "2026-01-07 17:28:09",
       "hwid": "DAYS",
@@ -42,6 +42,6 @@
   "stats": {
     "total_keys_created": 16,
     "total_keys_used": 0,
-    "active_keys": 2
+    "active_keys": 1
   }
 }
