@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_update": "2026-01-22 14:44:04",
+  "last_update": "2026-02-15 01:21:49",
   "keys": [
     {
       "key": "Xlauch_S7uJuI06T5ExhNl5Vf02",
@@ -30,6 +30,16 @@
       "hwid": "DAYS",
       "uses": 520,
       "creator": "Web Admin"
+    },
+    {
+      "key": "BBV1",
+      "user": "XLC",
+      "active": true,
+      "expires": 1771377709,
+      "created": "2026-02-15 01:21:49",
+      "hwid": "VIP",
+      "uses": 2,
+      "creator": "Web Admin"
     }
   ],
   "settings": {
@@ -40,8 +50,8 @@
     "update_url": "https://seulink.com/seuscript.lua"
   },
   "stats": {
-    "total_keys_created": 16,
+    "total_keys_created": 17,
     "total_keys_used": 0,
-    "active_keys": 1
+    "active_keys": 2
   }
 }
