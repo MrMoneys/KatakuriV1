@@ -3,8 +3,8 @@
     {
       "key": "DDOS",
       "username": "Owner",
-      "active": false,
-      "expires": "2026-02-27"
+      "active": true,
+      "expires": "2023-02-20"
     }
   ]
 }
